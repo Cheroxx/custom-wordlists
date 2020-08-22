@@ -1,6 +1,6 @@
 # custom-wordlists
 Collection of custom popculture wordlists for password cracking
 
-### U.S. colleges and university nicknames
+### U.S. colleges and universities
 
-[A-name schools](custom-wordlists/college-nicknames-A)
+[college-nicknames-A](custom-wordlists/college-nicknames-A)
