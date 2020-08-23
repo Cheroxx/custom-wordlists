@@ -1,4 +1,4 @@
-## custom-wordlists
+## Custom Wordlists
 Collection of custom popculture wordlists for password cracking
 
 Recommend using these wordlists in combination with other wordlists and/or automated wordlist generators
