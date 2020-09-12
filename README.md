@@ -18,3 +18,5 @@ Recommend using these wordlists in combination with other wordlists and/or autom
 [college-nicknames-H I J K](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-H%20I%20J%20K)
 
 [college-nicknames-L](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-L)
+
+[college-nicknames-M](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-M)
