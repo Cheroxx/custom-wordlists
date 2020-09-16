@@ -22,3 +22,5 @@ Recommend using these wordlists in combination with other wordlists and/or autom
 [college-nicknames-M](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-M)
 
 [college-nicknames-N](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-N)
+
+[college-nicknames-OPQR](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-OPQR)
