@@ -25,3 +25,5 @@ Collection of custom popculture wordlists for password cracking
 [college-nicknames-N](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-N)
 
 [college-nicknames-OPQR](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-OPQR)
+
+[college-nicknames-S](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-S)
