@@ -31,3 +31,8 @@ Collection of custom popculture wordlists for password cracking
 [college-nicknames-TUV](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-TUV)
 
 [college-nicknames-WXYZ](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-WXYZ)
+
+
+#### Film & Television Stars
+
+[Hollywood actresses](https://github.com/Cheroxx/custom-wordlists/blob/master/Hollywood%20actresses)
