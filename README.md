@@ -2,7 +2,7 @@
 
 ![image](blm.jpg)
 
-Collection of custom popculture wordlists for password cracking
+Collection of custom popculture wordlists for password cracking, great for security questions
 
 #### U.S. colleges and universities
 
@@ -33,6 +33,13 @@ Collection of custom popculture wordlists for password cracking
 [college-nicknames-WXYZ](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-WXYZ)
 
 
-#### Film & Television Stars
+#### Film & Television 
 
 [Hollywood actresses](https://github.com/Cheroxx/custom-wordlists/blob/master/Hollywood%20actresses)
+
+
+#### Favorite Pets
+
+Here is a list of the 100 most popular names for dogs in 2020:
+
+[Dog names](https://github.com/Cheroxx/custom-wordlists/blob/master/pets)
