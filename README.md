@@ -4,7 +4,7 @@
 
 Collection of custom popculture wordlists for password cracking, great for security questions
 
-#### U.S. colleges and universities
+#### All U.S. Colleges and Universities
 
 [college-nicknames-A](https://github.com/Cheroxx/custom-wordlists/blob/master/college-nicknames-A)
 
