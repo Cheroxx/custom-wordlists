@@ -44,6 +44,4 @@ Here is a list of the 100 most popular names for dogs in 2020:
 
 [Dog names](https://github.com/Cheroxx/custom-wordlists/blob/master/pets)
 
-#### All U.S. High Schools by state
 
-[Alabama](https://github.com/Cheroxx/custom-wordlists/blob/master/Alabama-high-schools)
